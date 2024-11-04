@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "vpos",
+			"path": "."
+		},
+		{
+			"name": "views",
+			"path": "../../../Library/Mobile Documents/.Trash/views"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vpos"
+	}
+}
